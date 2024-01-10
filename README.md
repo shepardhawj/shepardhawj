@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Shepard and I am currently studying Computer Programming/Database at Spartanburg Community College. I am working toward my Associates Degree and hope to purse my Bachelor's Degree in Computer Science. I enjoy jogging, playing sports, or anything to keep me active. 
+My name is Shepard and I am currently studying Computer Programming/Database at Spartanburg Community College. I am working toward my Associates Degree and hope to pursue my Bachelor's Degree in Computer Science. I enjoy jogging, playing sports, or anything to keep me active. 
 <!--
 **shepardhawj/shepardhawj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
